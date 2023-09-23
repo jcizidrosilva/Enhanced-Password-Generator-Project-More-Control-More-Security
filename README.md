@@ -18,7 +18,7 @@ Join me in this exciting journey of continuous improvement and online safety. Yo
 
 <br>
 <img src="./img/1.png" alt="bg">
-<h3><a href="#">Explore the Enhanced Password Generator</a></h3>
+<h3><a href="https://jcizidrosilva.github.io/Enhanced-Password-Generator-Project-More-Control-More-Security/">Explore the Enhanced Password Generator</a></h3>
 
 
 
