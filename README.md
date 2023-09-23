@@ -16,6 +16,10 @@ As someone who's still learning HTML, CSS, and JavaScript, I'm proud to share th
 
 Join me in this exciting journey of continuous improvement and online safety. Your feedback and support are invaluable as I evolve and refine this project. Thank you for being a part of my coding adventure!"
 
+<br>
+<img src="./img/1.png" alt="bg">
+<h3><a href="#">Explore the Enhanced Password Generator</a></h3>
+
 
 
 
